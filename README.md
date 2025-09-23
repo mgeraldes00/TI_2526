@@ -8,4 +8,4 @@
 * Espera o *input* do utilizador
 * Termina
 
-![test](test.jpg)
+![imagem teste](tech1.png)
