@@ -1,5 +1,11 @@
-# Test
+# Tecnologias Informáticas - Programa Inicial
 
-## Tecnologias Informáticas
+## Funcionamento do programa
+
+* Imprime a mensagem "Hello World!"
+* Espera o *input* do utilizador
+* Imprime a mensagem "Bye World!"
+* Espera o *input* do utilizador
+* Termina
 
 ![test](test.jpg)
